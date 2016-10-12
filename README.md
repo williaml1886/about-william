@@ -42,3 +42,4 @@ usage: git remote add [<options>] <name> <url>
                           master branch
     --mirror[=<push|fetch>]
                           set up remote as a mirror to push to or fetch from
+williaml1886:~/workspace/about-me (master) $ git push
