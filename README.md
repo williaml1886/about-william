@@ -1,45 +1,25 @@
-# about-me
-williaml1886:~/workspace $ cd ~/workspace
-williaml1886:~/workspace $ rm -rf .git
-williaml1886:~/workspace $ mkdir about-me
-mkdir: cannot create directory ‘about-me’: File exists
-williaml1886:~/workspace $ cd about-me
-williaml1886:~/workspace/about-me (master) $ rm -rf .git
-williaml1886:~/workspace/about-me $ git init
-Initialized empty Git repository in /home/ubuntu/workspace/about-me/.git/
-williaml1886:~/workspace/about-me (master) $ touch README.md
-williaml1886:~/workspace/about-me (master) $ rm -rf .git
-williaml1886:~/workspace/about-me $ git commit -m "create readme"
-fatal: Not a git repository (or any of the parent directories): .git
-williaml1886:~/workspace/about-me $ git remote add origin git@github.com:williaml1886/about-me.git
-fatal: Not a git repository (or any of the parent directories): .git
-williaml1886:~/workspace/about-me $ git push -u origin master
-fatal: Not a git repository (or any of the parent directories): .git
-williaml1886:~/workspace/about-me $ git init
-Initialized empty Git repository in /home/ubuntu/workspace/about-me/.git/
-williaml1886:~/workspace/about-me (master) $ rm -rf .gif
-williaml1886:~/workspace/about-me (master) $ rm -rf .git
-williaml1886:~/workspace/about-me $ git push
-fatal: Not a git repository (or any of the parent directories): .git
-williaml1886:~/workspace/about-me $ git status
-fatal: Not a git repository (or any of the parent directories): .git
-williaml1886:~/workspace/about-me $ git remote add origin git@github.com:williaml1886/about-me.git
-fatal: Not a git repository (or any of the parent directories): .git
-williaml1886:~/workspace/about-me $ git push -u origin master
-fatal: Not a git repository (or any of the parent directories): .git
-williaml1886:~/workspace/about-me $ ls
-README.md/  about-me
-williaml1886:~/workspace/about-me $ git init
-Initialized empty Git repository in /home/ubuntu/workspace/about-me/.git/
-williaml1886:~/workspace/about-me (master) $ git remote add origin
-usage: git remote add [<options>] <name> <url>
+# William Law
 
-    -f, --fetch           fetch the remote branches
-    --tags                import all tags and associated objects when fetching
-                          or do not fetch any tag at all (--no-tags)
-    -t, --track <branch>  branch(es) to track
-    -m, --master <branch>
-                          master branch
-    --mirror[=<push|fetch>]
-                          set up remote as a mirror to push to or fetch from
-williaml1886:~/workspace/about-me (master) $ git push
+**_Student_**
+
+# williaml1886@hstat.org
+
+William Law was raised and grew up living in Brooklyn, New York from 2000 to present. He currently attends High School of Telecommunication Arts and Technology, but also went to P.S. 503 and I.S. 259. He currently serves as a bowling team player and supporter in High School of Telecommunications and as a software engineer.
+
+Schedule
+
+1. Software Engineering Program (SEP) 11
+
+2. English 5
+
+3. Physical Education
+
+4. Advanced Algebra and Trigonometry
+
+5. Spanish 5
+
+6. Physics
+
+7. U.S. History
+
+8. Lunch
