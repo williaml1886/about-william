@@ -6,6 +6,7 @@
     * This can help increase the chance of having a _good future_.
 * Develop more **skills and knowledge**.
     * This can help him prepare to find job opportunities that can help him strengthen his mind to do hid career really well.
+    
 ### Schedule
 
 1. Software Engineering Program (SEP11)
